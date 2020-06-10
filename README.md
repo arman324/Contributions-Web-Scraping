@@ -1,4 +1,4 @@
-# Live Football Scores
+# GitHub Contributions
 ## Overview
 The incredible amount of data on the Internet is a rich resource for any field of research or personal interest.
  **Web scraping** is a data scraping used for extracting data from websites. 
