@@ -8,12 +8,9 @@ So after running this code, you get the count of your commits (and plot) on each
 ## Requirements
 * Python 3.7.4
 * ``pip install beautifulsoup4``
-*  ``pip install matplotlib`` or ``python3 -m pip install matplotlib``
-*  ``pip install numpy`` or ``python3 -m pip install numpy``
-* ``import requests``
-* ``from bs4 import BeautifulSoup``
-* ``import matplotlib.pyplot as plt``
-* ``import numpy as np``
+* ``pip install matplotlib`` or ``python3 -m pip install matplotlib``
+* ``pip install numpy`` or ``python3 -m pip install numpy``
+
 ## How to Run
 1. You just need to run this command `` python3 webScraping.py`` in your terminal.
 2. then enter your __GitHub username__ for getting the count of your commits (and plot) on each day of the week during the last year.
